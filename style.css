@@ -1,0 +1,33 @@
+#main {
+   background-color: #d8d7d4;
+  }
+  #logo {
+    width: 100px;
+    height: 30px;
+  }
+  #h1 {
+    font-family: "Itim", cursive;
+    font-family: "poppins", sans-serif;
+  }
+  
+  #img1 {
+    width: 150px;
+    height: 100px;
+  }
+  #word {
+    color: #fb6f92;
+  }
+  
+  #img2 {
+    width: 150px;
+    height: 100px;
+  }
+  
+  div {
+    display: inline-block;
+    margin: 10px;
+  }
+  #corner {
+    text-align: right;
+    color: #001d3d;
+  }
